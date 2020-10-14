@@ -1,3 +1,5 @@
-# wacoustic.github.io
+# My-Club-Site
 
-# This is a infomation site of my Club
+  This is my highschool CLUB. I want to create a site for showing what we do in a single year. For saving our memory, achives and our certificate.
+
+  Hope you enjoy :)))
