@@ -1372,7 +1372,7 @@ img.zoom-img:hover {
 }
 .view,.view .mask,.view .content{
 	width: 255px;
-    height: 298px;
+    height: 255px;
 }
 .view .mask,.view .content {
    position: absolute;
@@ -4305,3 +4305,7 @@ h3.heading-agileinfo.white-w3ls {
 /*--//responsive--*/
 /*-- news --*/
 
+/* My css */
+.agile_team_grids {
+    margin-bottom: 6%;
+}
